@@ -5,13 +5,61 @@ var dataset = [
         products:[
             {
                 name:"SP-LP-001",
-                image:"SP-040.jpg",
+                image:"Lotion_pump/KPC-LP-001.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-002",
+                image:"Lotion_pump/KPC-LP-002.jpg",
                 description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
                 dimension:"18mm / 20mm / 24mm / 28mm"
             },
             {
                 name:"SP-LP-003",
-                image:"SP-043.jpg",
+                image:"Lotion_pump/KPC-LP-003.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-004",
+                image:"Lotion_pump/KPC-LP-004.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-005",
+                image:"Lotion_pump/KPC-LP-005.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-006",
+                image:"Lotion_pump/KPC-LP-006.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-007",
+                image:"Lotion_pump/KPC-LP-007.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-008",
+                image:"Lotion_pump/KPC-LP-008.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-009",
+                image:"Lotion_pump/KPC-LP-009.png",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-010",
+                image:"Lotion_pump/KPC-LP-010.jpg",
                 description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
                 dimension:"18mm / 20mm / 24mm / 28mm"
             },
@@ -24,19 +72,521 @@ var dataset = [
         products:[
             {
                 name:"SP-LP-001",
-                image:"SP-040.jpg",
+                image:"CRIM_PUMP/KCP-CP-001.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-002",
+                image:"CRIM_PUMP/KCP-CP-002.jpg",
                 description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
                 dimension:"18mm / 20mm / 24mm / 28mm"
             },
             {
                 name:"SP-LP-003",
-                image:"SP-043.jpg",
+                image:"CRIM_PUMP/KCP-CP-003.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },{
+                name:"SP-LP-004",
+                image:"CRIM_PUMP/KPC-CP-004.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            }
+        ]
+
+    },
+    {
+        name:"DISPENSER PUMP",
+        products:[
+            {
+                name:"SP-LP-001",
+                image:"DISPENSER_PUMP/KPC-DP-001.jpg",
                 description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
                 dimension:"18mm / 20mm / 24mm / 28mm"
             },
+            {
+                name:"SP-LP-002",
+                image:"DISPENSER_PUMP/KPC-DP-002.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-003",
+                image:"DISPENSER_PUMP/KPC-DP-003.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-004",
+                image:"DISPENSER_PUMP/KPC-DP-004.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },{
+                name:"SP-LP-005",
+                image:"DISPENSER_PUMP/KPC-DP-005.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-006",
+                image:"DISPENSER_PUMP/KPC-DP-006.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },{
+                name:"SP-LP-007",
+                image:"DISPENSER_PUMP/KPC-DP-007.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-008",
+                image:"DISPENSER_PUMP/KPC-DP-008.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },{
+                name:"SP-LP-009",
+                image:"DISPENSER_PUMP/KPC-DP-009.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-010",
+                image:"DISPENSER_PUMP/KPC-DP-0010.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-011",
+                image:"DISPENSER_PUMP/KPC-DP-0011.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-012",
+                image:"DISPENSER_PUMP/KPC-DP-0012.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-013",
+                image:"DISPENSER_PUMP/KPC-DP-0013.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-014",
+                image:"DISPENSER_PUMP/KPC-DP-0014.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-015",
+                image:"DISPENSER_PUMP/KPC-DP-0015.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            }
         ]
 
-    }
+    },
+    {
+        name:"MIST SPRAYER",
+        products:[
+            {
+                name:"SP-LP-001",
+                image:"MIST_PUMP/KPC-MP-001.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-002",
+                image:"MIST_PUMP/KPC-MP-002.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-003",
+                image:"MIST_PUMP/KPC-MP-003.webp",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-004",
+                image:"MIST_PUMP/KPC-MP-004.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-005",
+                image:"MIST_PUMP/KPC-MP-005.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-006",
+                image:"MIST_PUMP/KPC-MP-006.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            }
+        ]
+
+    },
+    {
+        name:"TRIGGER PUMP",
+        products:[
+            {
+                name:"SP-LP-001",
+                image:"TRIGGER_PUMP/KPC-TP-001.png",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-002",
+                image:"TRIGGER_PUMP/KPC-TP-002.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-003",
+                image:"TRIGGER_PUMP/KPC-TP-003.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-004",
+                image:"TRIGGER_PUMP/KPC-TP-004.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-005",
+                image:"TRIGGER_PUMP/KPC-TP-005.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-006",
+                image:"TRIGGER_PUMP/KPC-TP-006.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            }
+        ]
+
+    },
+    {
+        name:"GLASS BOTTLES",
+        products:[
+            {
+                name:"SP-LP-001",
+                image:"GLASS_BOTTLE/KPC-GB-001.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-002",
+                image:"GLASS_BOTTLE/KPC-GB-002.webp",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-003",
+                image:"GLASS_BOTTLE/KPC-GB-003.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-004",
+                image:"GLASS_BOTTLE/KPC-GB-004.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-005",
+                image:"GLASS_BOTTLE/KPC-GB-005.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-006",
+                image:"GLASS_BOTTLE/KPC-GB-006.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-007",
+                image:"GLASS_BOTTLE/KPC-GB-007.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-008",
+                image:"GLASS_BOTTLE/KPC-GB-008.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-009",
+                image:"GLASS_BOTTLE/KPC-GB-009.png",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-010",
+                image:"GLASS_BOTTLE/KPC-GB-010.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-011",
+                image:"GLASS_BOTTLE/KPC-GB-011.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-012",
+                image:"GLASS_BOTTLE/KPC-GB-012.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-013",
+                image:"GLASS_BOTTLE/KPC-GB-013.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-014",
+                image:"GLASS_BOTTLE/KPC-GB-014.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-015",
+                image:"GLASS_BOTTLE/KPC-GB-015.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-016",
+                image:"GLASS_BOTTLE/KPC-GB-016.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-017",
+                image:"GLASS_BOTTLE/KPC-GB-017.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-018",
+                image:"GLASS_BOTTLE/KPC-GB-018.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-019",
+                image:"GLASS_BOTTLE/KPC-GB-019.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-020",
+                image:"GLASS_BOTTLE/KPC-GB-020.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            }
+            
+        ]
+
+    },
+    {
+        name:"CREDIT CARD",
+        products:[
+            {
+                name:"SP-LP-001",
+                image:"CREDIT_CARD/KCP-CCP-001.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-002",
+                image:"CREDIT_CARD/KCP-CCP-002.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-003",
+                image:"CREDIT_CARD/KCP-CCP-003.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            }
+        ]
+
+    },
+    {
+        name:"PEN SPRAY",
+        products:[
+            {
+                name:"SP-LP-001",
+                image:"PEN_SPRAY/KPC-PSB-001.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-002",
+                image:"PEN_SPRAY/KPC-PSB-002.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-003",
+                image:"PEN_SPRAY/KPC-PSB-003.webp",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-004",
+                image:"PEN_SPRAY/KPC-PSB-004.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-005",
+                image:"PEN_SPRAY/KPC-PSB-005.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            }
+        ]
+
+    },
+    {
+        name:"CAPS & CLOSURES",
+        products:[
+            {
+                name:"SP-LP-001",
+                image:"Caps_Closures/KPC-DTC-001.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-002",
+                image:"Caps_Closures/KPC-DTC-002.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-003",
+                image:"Caps_Closures/KPC-DTC3-003.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-004",
+                image:"Caps_Closures/KPC-DTC-004.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-005",
+                image:"Caps_Closures/KPC-DTC-005.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-006",
+                image:"Caps_Closures/KPC-DTC-006.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-007",
+                image:"Caps_Closures/KPC-DTC-007.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-008",
+                image:"Caps_Closures/KPC-DTC-008.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-009",
+                image:"Caps_Closures/KPC-DTC-009.png",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-010",
+                image:"Caps_Closures/KPC-DTC-0010.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-011",
+                image:"Caps_Closures/KPC-DTC-0011.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-012",
+                image:"Caps_Closures/KPC-DTC-0012.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-013",
+                image:"Caps_Closures/KPC-DTC-0013.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-014",
+                image:"Caps_Closures/KPC-DTC-0014.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-015",
+                image:"Caps_Closures/KPC-DTC-0015.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-016",
+                image:"Caps_Closures/KPC-DTC-0016.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-017",
+                image:"Caps_Closures/KPC-DTC-0017.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-018",
+                image:"Caps_Closures/KPC-DTC-0018.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-019",
+                image:"Caps_Closures/KPC-DTC-0019.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            },
+            {
+                name:"SP-LP-020",
+                image:"Caps_Closures/KPC-DTC-0020.jpg",
+                description:"Color Customization Available\n\nThe dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.",
+                dimension:"18mm / 20mm / 24mm / 28mm"
+            }
+            
+        ]
+
+    },
 ];
 
 
