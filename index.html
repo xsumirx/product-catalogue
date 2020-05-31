@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css"/>
+    <title>Product Catalogue</title>
+</head>
+<body>
+
+    <div class="cataloge">
+        <nav>
+            <div class="product-menu">
+
+                <!-- Copy-paste below following tag to get more menu option -->
+                <div class="product-menu-item">
+                    <input type="checkbox" id="id-product-menu-header1"/>
+                    <label for="id-product-menu-header1">PUMPS <span style="float: right;">&#9660;</span> </label>
+                    <ul>
+                        <li><a class="product-menu-item-link" href="#">LOTION PUMP</a></li>
+                        <li><a class="product-menu-item-link" href="#">CRIMP PUMP</a></li>
+                    </ul>
+                </div>
+
+
+            </div>
+        </nav>
+        
+    
+        <div class="product-gallery">
+
+            <div class="product-gallery-header">
+                <h4 id="id-product-gallery-header">PUMP LOTION TESTING PUMP</h4>
+            </div>
+            <hr style="border: 2px solid green;"/>
+
+            <div class="product-gallery-container" id="id-product-gallery-container">
+                <!-- Filled by javascript from dataset -->
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="modal" id="id-modal">
+        <div class="modal-content">
+            <div class="modal-content-header">
+                <span class="modal-close-btn" id="id-modal-close-btn">&times;</span>
+                <p id="id-modal-name">Hello</p>
+            </div>
+            <hr/>
+            <div class="modal-content-body">
+                <img id="id-modal-image" src="img/SP-040.jpg" alt=""/>
+                <div>
+                    <h3>Description</h3>
+                    <br/>
+                    <p id="id-modal-description">Color Customization Available
+                        The dispensing action ensures less wastage of product & it doesn't contaminate the product inside. Highly appreciated for its smooth finishing.
+                        Color Customization Available
+                        The dispensing action ensures less wastage of product &
+                        Color Customization Available
+                        The dispensing action ensures less wastage of product &
+                        Color Customization Available
+                        The dispensing action ensures less wastage of product &
+                    </p>
+
+                    <br/>
+                    <br/>
+
+                    <h3>Dimension</h3>
+                    <br/>
+                    <p id="id-modal-dimension">18mm / 20mm / 24mm / 28mm</p>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+    <script src="main.js" ></script>
+</body>
+</html>
