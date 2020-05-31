@@ -274,7 +274,7 @@ var dataset = [
 
     },
     {
-        name:"GLASS BOTTLES",
+        name:"GLASS BOTTLE",
         products:[
             {
                 name:"SP-LP-001",
@@ -401,7 +401,7 @@ var dataset = [
 
     },
     {
-        name:"CREDIT CARD",
+        name:"CREDIT CARD SPRAYER",
         products:[
             {
                 name:"SP-LP-001",
@@ -425,7 +425,7 @@ var dataset = [
 
     },
     {
-        name:"PEN SPRAY",
+        name:"PEN SPRAYER",
         products:[
             {
                 name:"SP-LP-001",
@@ -461,7 +461,7 @@ var dataset = [
 
     },
     {
-        name:"CAPS & CLOSURES",
+        name:"CAPS AND CLOSURES",
         products:[
             {
                 name:"SP-LP-001",
@@ -658,6 +658,9 @@ function populateImage(root, data) {
 }
 
 function menuItemClick(e) {
+
+    console.log(this)
+
     var root = document.getElementById("id-product-gallery-container");
     var header = document.getElementById("id-product-gallery-header");
 
@@ -700,6 +703,14 @@ for(i = 0; i<menuItems.length; i++) {
 
 var modalCloseButton = document.getElementById("id-modal-close-btn");
 modalCloseButton.addEventListener('click', modalCloseClick);
+
+
+var modalCloseButtonFooter = document.getElementById("id-modal-content-footer");
+modalCloseButtonFooter.addEventListener('click', modalCloseClick);
+
+var firstGroup = document.getElementById("id-product-menu-header1");
+firstGroup.checked = true
+
 
 
 
